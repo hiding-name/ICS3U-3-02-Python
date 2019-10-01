@@ -12,8 +12,8 @@ def main():
     number = float(input("Guess the number: "))
 
     # process
-    if number == 5 :
-        #output
+    if number == 5:
+        # output
         print("Good job, you got it.")
 
 
